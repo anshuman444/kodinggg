@@ -68,8 +68,8 @@ It does not matter what you leave beyond the returned k (hence they are undersco
 
 **Language:** Python  
 **Runtime:** 0 ms (beats 100.00%)  
-**Memory:** 19.1 MB (beats 83.87%)  
-**Submitted:** 2026-10-29T16:10:41.623Z  
+**Memory:** 19.2 MB (beats 54.08%)  
+**Submitted:** 2026-10-29T16:10:50.503Z  
 
 ```py
 class Solution:
