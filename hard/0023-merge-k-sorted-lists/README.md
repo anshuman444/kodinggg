@@ -57,8 +57,8 @@ Output: []
 
 **Language:** Python  
 **Runtime:** 8 ms (beats 73.03%)  
-**Memory:** 22.9 MB (beats 50.93%)  
-**Submitted:** 2026-10-30T16:08:17.906Z  
+**Memory:** 23 MB (beats 33.30%)  
+**Submitted:** 2026-10-30T16:08:41.066Z  
 
 ```py
 import heapq
