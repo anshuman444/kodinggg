@@ -37,9 +37,9 @@ Explanation: The input board is shown above and the only valid solution is show
 ## Solution
 
 **Language:** Python  
-**Runtime:** 1370 ms (beats 55.85%)  
-**Memory:** 19.1 MB (beats 98.79%)  
-**Submitted:** 2026-10-31T17:13:09.211Z  
+**Runtime:** 1446 ms (beats 54.35%)  
+**Memory:** 19.4 MB (beats 82.15%)  
+**Submitted:** 2026-10-31T17:13:24.880Z  
 
 ```py
 from typing import List
