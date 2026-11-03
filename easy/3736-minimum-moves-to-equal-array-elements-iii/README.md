@@ -53,9 +53,9 @@ Now, all elements of `nums` are equal to 5. The minimum total moves is `2`.
 ## Solution
 
 **Language:** Python  
-**Runtime:** 3 ms (beats 31.28%)  
-**Memory:** 19.1 MB (beats 92.56%)  
-**Submitted:** 2026-11-03T15:46:29.269Z  
+**Runtime:** 2 ms (beats 43.08%)  
+**Memory:** 19.2 MB (beats 76.15%)  
+**Submitted:** 2026-11-03T15:46:42.650Z  
 
 ```py
 class Solution:
