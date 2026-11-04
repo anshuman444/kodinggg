@@ -48,9 +48,9 @@ Return the **minimum** number of operations needed to have **at least** `k` *non
 ## Solution
 
 **Language:** Python  
-**Runtime:** 4866 ms (beats 34.61%)  
-**Memory:** 53 MB (beats 36.54%)  
-**Submitted:** 2026-11-04T16:39:21.401Z  
+**Runtime:** 4833 ms (beats 34.61%)  
+**Memory:** 52.7 MB (beats 46.15%)  
+**Submitted:** 2026-11-04T16:39:43.210Z  
 
 ```py
 from sortedcontainers import SortedList
