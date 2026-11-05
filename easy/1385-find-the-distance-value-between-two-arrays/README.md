@@ -61,9 +61,9 @@ Output: 1
 ## Solution
 
 **Language:** Python  
-**Runtime:** 17 ms (beats 54.27%)  
+**Runtime:** 21 ms (beats 35.85%)  
 **Memory:** 19.1 MB (beats 88.90%)  
-**Submitted:** 2026-11-05T16:30:52.845Z  
+**Submitted:** 2026-11-05T16:31:04.468Z  
 
 ```py
 class Solution:
