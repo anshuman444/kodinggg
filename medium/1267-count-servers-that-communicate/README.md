@@ -49,9 +49,9 @@ Explanation: The two servers in the first row can communicate with each other. 
 ## Solution
 
 **Language:** Python  
-**Runtime:** 16 ms (beats 68.36%)  
-**Memory:** 21.5 MB (beats 65.82%)  
-**Submitted:** 2026-11-08T17:16:08.716Z  
+**Runtime:** 18 ms (beats 55.08%)  
+**Memory:** 20.9 MB (beats 100.00%)  
+**Submitted:** 2026-11-08T17:16:21.481Z  
 
 ```py
 class Solution:
