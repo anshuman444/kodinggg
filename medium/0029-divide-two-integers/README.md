@@ -45,8 +45,8 @@ Explanation: 7/-3 = -2.33333.. which is truncated to -2.
 
 **Language:** Python  
 **Runtime:** 2 ms (beats 26.34%)  
-**Memory:** 19 MB (beats 94.67%)  
-**Submitted:** 2026-11-11T16:12:24.585Z  
+**Memory:** 18.9 MB (beats 98.72%)  
+**Submitted:** 2026-11-11T16:13:07.413Z  
 
 ```py
 class Solution:
