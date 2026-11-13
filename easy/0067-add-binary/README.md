@@ -37,9 +37,9 @@ Output: "10101"
 ## Solution
 
 **Language:** Python  
-**Runtime:** 2 ms (beats 47.09%)  
-**Memory:** 19.2 MB (beats 71.68%)  
-**Submitted:** 2026-11-13T16:27:52.688Z  
+**Runtime:** 3 ms (beats 33.28%)  
+**Memory:** 19.1 MB (beats 89.33%)  
+**Submitted:** 2026-11-13T16:28:05.878Z  
 
 ```py
 class Solution:
