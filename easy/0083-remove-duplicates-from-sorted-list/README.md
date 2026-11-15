@@ -35,9 +35,9 @@ Output: [1,2,3]
 ## Solution
 
 **Language:** Python  
-**Runtime:** 1 ms (beats 41.01%)  
-**Memory:** 19.1 MB (beats 94.08%)  
-**Submitted:** 2026-11-15T16:07:12.790Z  
+**Runtime:** 0 ms (beats 100.00%)  
+**Memory:** 19.3 MB (beats 22.03%)  
+**Submitted:** 2026-11-15T16:07:20.001Z  
 
 ```py
 from typing import Optional
