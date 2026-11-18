@@ -55,8 +55,8 @@ Output: []
 
 **Language:** Python  
 **Runtime:** 3 ms (beats 93.66%)  
-**Memory:** 19.3 MB (beats 93.38%)  
-**Submitted:** 2026-11-18T16:01:28.278Z  
+**Memory:** 19.5 MB (beats 71.60%)  
+**Submitted:** 2026-11-18T16:01:40.129Z  
 
 ```py
 from typing import List
